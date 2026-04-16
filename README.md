@@ -15,8 +15,8 @@ by day I write code, by night I transform into a video editor and animator 🦇
 
 ✔ Currently learning and improving:   ✔ React & frontend architecture   ✔ UI/UX design principles
 
-- 📫 Reach out to me at: <a href="https://mail.google.com/mail/u/0/#inbox">https://mail.google.com/mail/u/0/#inbox</a>
-- 📝 See my work in action:: <a href="https://luisjonaikel-portfolio.vercel.app/">https://luisjonaikel-portfolio.vercel.app/</a>
+- 📫 Reach out to me at: <a href="mailto:tuemail@gmail.com">ljonaikel1@gmail.com</a>
+- 📝 See my work in action: <a href="https://luisjonaikel-portfolio.vercel.app/" target="_blank">luisjonaikel-portfolio.vercel.app</a>
 
 <!--Skills section-->
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
@@ -43,10 +43,15 @@ by day I write code, by night I transform into a video editor and animator 🦇
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
 </span>
 <!--Social Media-->
-<h4> Check out my Social Media </h4>
+<h4>Check out my Social Media</h4>
 <span>
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  <a href="https://www.linkedin.com/in/luis-jonaikel-quesada-9302902b0/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/shonaikel/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
 </span>
 
 <!--
