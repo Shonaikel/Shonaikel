@@ -13,7 +13,7 @@ I’m a Computer Science enthusiast and freelance designer, currently growing pr
 
 by day I write code, by night I transform into a video editor and animator 🦇
 
-✔ Currently learning and improving:   ✔ React & frontend architecture   ✔ UI/UX design principles
+✔ Currently learning and improving  ✔ React & frontend architecture  ✔ UI/UX design
 
 - 📫 Reach out to me at: <a href="mailto:tuemail@gmail.com">ljonaikel1@gmail.com</a>
 - 📝 See my work in action: <a href="https://luisjonaikel-portfolio.vercel.app/" target="_blank">luisjonaikel-portfolio.vercel.app</a>
