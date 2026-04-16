@@ -5,7 +5,7 @@
 </h1>
 
 <!--information section-->
-<img align="right" width=290px alt="kenny" src="https://media.tenor.com/xpbLlkhER7wAAAAi/minecraft-build.gif" />
+<img align="right" width=330px alt="kenny" src="https://media.tenor.com/xpbLlkhER7wAAAAi/minecraft-build.gif" />
 <!--https://media.tenor.com/kNEr9FXu8KkAAAAi/bomb.gif-->
  
 <h3>About Me</h3> 
