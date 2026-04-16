@@ -28,6 +28,4 @@ by day I write code, by night I transform into a video editor and animator 🦇
   </a> 
 </div>
 
-##### 
----
 
