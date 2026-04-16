@@ -1,6 +1,6 @@
 <!--name profile-->
 <h1 align="center">
-  Hi, I'm Luis Jonaikel / JonaWhat 
+  Hi, I'm Luis Jonaikel | JonaWhat 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -9,7 +9,7 @@
 <!--https://media.tenor.com/kNEr9FXu8KkAAAAi/bomb.gif-->
  
 <h3>About Me</h3> 
-I’m a Computer Science enthusiast and Design student focused on building modern, creative, and visually engaging web experiences using React, TypeScript, Tailwind CSS, and JavaScript, with a strong emphasis on creating responsive, scalable, and user-friendly interfaces while continuously improving my coding and design skills.
+I’m a Computer Science enthusiast and freelance designer, currently growing professionally. I am continuously expanding my knowledge in frontend development and UI/UX design, focusing on building modern, creative, and user-friendly web experiences. I enjoy learning and creating projects that are innovative, functional, and visually engaging.
 
 by day I write code, by night I transform into a video editor and animator 🦇
 
@@ -20,7 +20,7 @@ by day I write code, by night I transform into a video editor and animator 🦇
 
 <!--Skills section-->
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
-
+<!--Languages-->
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -31,12 +31,8 @@ by day I write code, by night I transform into a video editor and animator 🦇
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-  
- 
 </span>
-
-
-
+<!--Other Tools and Technologies-->
 <h4> Other Tools and Technologies </h4>
 <span>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -45,23 +41,20 @@ by day I write code, by night I transform into a video editor and animator 🦇
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-
- 
-
-
-  
+</span>
+<!--Social Media-->
+<h4> Check out my Social Media </h4>
+<span>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </span>
 
-
-
-<!--tech stack icons-->
-<h1 align=center></h1>
-<!--tech stack icons-->
+<!--
 <div align=center>
    <h3>Technologies</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,scss,typescript,javascript,java,bootstrap,supabase,python,tailwind,figma,linkedin,git,github&theme=light" />
   </a> 
-</div>
+</div>-->
 
 
